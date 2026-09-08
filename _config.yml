@@ -16,7 +16,7 @@ timezone:
 
 title: kPusta19 # the main title
 
-tagline: Software and Cybersecurity Engineer # it will display as the subtitle
+tagline: Software & Cyber Security Engineer | Golang, Rust # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blogs & Researches for everyone with everyone
@@ -99,7 +99,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
