@@ -19,8 +19,8 @@ image:
 ## Введение
 
 Данный цикл статей будет покрывать более обширный пласт тем и технологий, чем говорится в названии цикла.
-Помимо самих [SIEM](https://en.wikipedia.org/wiki/Security_information_and_event_management)
-и [EDR](https://en.wikipedia.org/wiki/Endpoint_detection_and_response)
+Помимо самих [SIEM](https://en.wikipedia.org/wiki/Security_information_and_event_management){: target="_blank" rel="noopener noreferrer"}
+и [EDR](https://en.wikipedia.org/wiki/Endpoint_detection_and_response){: target="_blank" rel="noopener noreferrer"}
 систем будут разбираться архитектуры и их компромисы,
 внутренние компоненты, вплоть до структур данных и алгоритмов, применямых для построения решения.
 Также, при случае, каждый из компонентов будет подвержен анализу на возможность улучшения тех или иных аспектов.
